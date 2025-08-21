@@ -1,3 +1,3 @@
 # The home page clone of obys agency website 
 
-Deleted the video file due to the video size
+A simple frontend clone of obys agency using HTML, CSS and javascript 
